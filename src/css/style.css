@@ -1,0 +1,13 @@
+.gallery {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  justify-content: center;
+}
+
+.gallery-item img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
